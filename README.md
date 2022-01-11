@@ -1,4 +1,4 @@
-## Galeria de Fotos
+## Contador
 
 Nesse exercício o desafio foi fazer um contador que ao apertar - diminui e + aumenta a contagem dos números.
 **Tecnologias utilizadas:**
